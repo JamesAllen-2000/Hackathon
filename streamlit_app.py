@@ -86,6 +86,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
+
 # API Configuration
 API_BASE_URL = "http://localhost:7860"
 

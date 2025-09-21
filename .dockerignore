@@ -5,5 +5,6 @@ __pycache__/
 .env
 test_execution.log
 Hackathon_Docs.pdf
-README.md
 DEPLOYMENT.md
+README.md
+

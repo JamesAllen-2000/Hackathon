@@ -318,6 +318,7 @@ async def run_test(test_request: TestRequest):
 async def health_check():
     return {"status": "healthy", "timestamp": datetime.now().isoformat()}
 
+
 if __name__ == "__main__":
     import uvicorn
     port = int(os.environ.get("PORT", 7860))
