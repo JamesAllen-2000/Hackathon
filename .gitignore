@@ -1,4 +1,6 @@
 Hackathon_Docs.pdf
+DEPLOYMENT.md
+STREAMLIT_DEPLOYMENT.md
 venv/
 .env
 .venv

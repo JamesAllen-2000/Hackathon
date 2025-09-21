@@ -87,7 +87,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # API Configuration
-API_BASE_URL = "https://hackathon-compx-api.streamlit.app/"
+API_BASE_URL = "http://localhost:7860"
 
 def call_test_api(test_data):
     """Call the test execution API"""
