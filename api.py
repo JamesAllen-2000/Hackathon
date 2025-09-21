@@ -267,8 +267,7 @@ class TestExecutor:
         
         # Check for login/navigation success indicators
         success_indicators = [
-            'successfully logged', 'home page', 'dashboard', 'welcome',
-            'login successful', 'logged in', 'authenticated', 'redirected',
+            'successfully logged','login successful', 'authenticated', 'redirected',
             'completed successfully', 'task completed', 'successfully',
             'user successfully', 'navigation', 'current url', 'displays'
         ]
