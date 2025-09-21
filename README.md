@@ -1,3 +1,14 @@
+---
+title: Browser Test Automation POC
+emoji: 🤖
+colorFrom: blue
+colorTo: green
+sdk: docker
+sdk_version: "4.21.0"
+app_file: Dockerfile
+pinned: false
+---
+
 # 🤖 Browser Test Automation POC
 
 ## Overview

@@ -88,7 +88,7 @@ st.markdown("""
 
 
 # API Configuration
-API_BASE_URL = "http://localhost:7860"
+API_BASE_URL = "http://localhost:8000"
 
 def call_test_api(test_data):
     """Call the test execution API"""
